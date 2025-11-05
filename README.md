@@ -6,14 +6,14 @@ A simple, static front-end website that presents my "Bill of Rights in a Relatio
 This project allowed me to explore version control and deployment of a static website using GitHub Pages.
 
 ------------------------------------
-##Features
+Features
 ------------------------------------
 - Clean and responsive design
 - Structured content layout for readability
 - Interactive and accessible user experience
 
 ------------------------------------
-##Deployment
+Deployment
 ------------------------------------
 The site is live at:
 https://kazakovanodira.github.io
