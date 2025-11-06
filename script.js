@@ -1,60 +1,60 @@
 const rights = [
     {
-      title: "Digital Privacy",
+      title: "Digital abuse",
       content:
         "I have the right to keep my devices private and not share access to them with my partner. It doesn’t mean I don’t trust my partner, but it means I deserve personal privacy and space.",
       mics: "(Trust / Separate Identities)",
     },
     {
-      title: "Social Media Freedom",
+      title: "Digital abuse",
       content:
         "I have the right to choose what social media content I post and participate in because it represents my own personality and separate identity. I should not be pressured to change my online behavior to please my partner.",
       mics: "(Separate Identities / Mutual Respect)",
     },
     {
-      title: "Respectful Communication",
+      title: "Emotional Abuse",
       content:
         "I have the right to be talked to and treated respectfully no matter the circumstances or mistakes, as long as I am not intentionally doing harm. Every person deserves to be treated with dignity and mutual respect.",
       mics: "(Mutual Respect / Communication)",
     },
     {
-      title: "Freedom of Interests",
+      title: "Emotional Abuse",
       content:
         "I have the right to pursue my own hobbies and interests without needing permission or approval from my partner because I am my own person with unique passions and identity.",
       mics: "(Separate Identities / Fairness-Equality)",
     },
     {
-      title: "Emotional Expression",
+      title: "Emotional Abuse",
       content:
         "I have the right to express my emotions and needs openly without being judged, mocked, or punished because honest communication is essential for a healthy relationship.",
       mics: "(Communication / Support)",
     },
     {
-      title: "Maintaining Relationships",
+      title: "Emotional Abuse",
       content:
         "I have the right to maintain my relationships with friends and family without jealousy or control from my partner because trust and independence are necessary for balance.",
       mics: "(Trust / Support)",
     },
     {
-      title: "Physical Safety",
+      title: "Physical Abuse",
       content:
         "I have the right to feel safe from any physical harm or violence in all circumstances because love should never cause fear or pain. Mutual respect and safety are non-negotiable.",
       mics: "(Mutual Respect / Support)",
     },
     {
-      title: "Consent and Boundaries",
+      title: "Sexual Abuse",
       content:
         "I have the right to give or withdraw consent at any time without fear of being shamed, pressured, or punished. My body and comfort always come first.",
       mics: "(Mutual Respect / Fairness-Equality)",
     },
     {
-      title: "Sexual Expression",
+      title: "Sexual Abuse",
       content:
         "I have the right to express my sexual interests or boundaries freely without being humiliated or forced. My partner and I both deserve respect for our personal limits.",
       mics: "(Separate Identities / Communication)",
     },
     {
-      title: "Financial Independence",
+      title: "Financial Abuse",
       content:
         "I have the right to earn, save, and spend my own money as I choose because I am an independent individual with my own needs and responsibilities.",
       mics: "(Fairness-Equality / Separate Identities)",
