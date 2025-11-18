@@ -1,5 +1,3 @@
-// Basic JS for smooth scrolling and simple interactivity
-
 document.addEventListener('DOMContentLoaded', () => {
     // Smooth scroll for nav links
     const links = document.querySelectorAll('.nav-links a');
